@@ -1,5 +1,5 @@
 <div align="center">
-<img src="http://alize.univ-avignon.fr/images/alize-core.png" alt="The ALIZÉ Core Library logo" height="198" >
+<img src="http://alize.univ-avignon.fr/images/alize-core.png" alt="The ALIZÉ Core Library logo" height="190" >
 </div>
 
 <div align="center">
