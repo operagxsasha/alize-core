@@ -1,5 +1,9 @@
+<div align="center">
 <img src="http://alize.univ-avignon.fr/images/alize-core.png" alt="The ALIZÉ Core Library logo" height="198" >
+</div>
 
+<div align="center">
+	
 # ALIZÉ Core Library
 
 *This package is part of the ALIZÉ project: <http://alize.univ-avignon.fr>*
